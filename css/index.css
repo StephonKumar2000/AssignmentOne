@@ -1,7 +1,7 @@
 
 .subnav-hero-section {
   text-align: center;
-  background: #1779ba;
+  background: black;
   background-size: cover;
   position: relative;
   overflow: visible;
@@ -14,7 +14,7 @@
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 300px;
+  height: 200px;
 }
 
 .subnav-hero-section .subnav-hero-headline {
@@ -51,5 +51,5 @@
 }
 
 .subnav-hero-subnav li a:hover {
-  background: rgba(254, 254, 254, 0.15);
+  background: orange;
 }
