@@ -1,13 +1,13 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: magenta;
+  background-color: white;
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
+  color: white;
+  background-color: blue;
   padding: 10px;
 }
 
